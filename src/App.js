@@ -1,5 +1,5 @@
-import React from "react";
-import About from "./compenents/about";
+import React from 'react';
+import About from "./compenents/About";
 import Nav from "./compenents/Nav";
 
 function App() {
